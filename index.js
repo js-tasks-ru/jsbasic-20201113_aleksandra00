@@ -2,5 +2,4 @@ let s = function(a, b) {
     return a + b;
 };
 
-console.log(s(1, 1));
-console.log(s(2, 5));
+console.log('1 + 1 = ', s(1, 1));
